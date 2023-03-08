@@ -31,5 +31,4 @@ We are conducting a data exploratory analysis on TV show ratings and performance
 
 ## References
 
-- <https://www.kaggle.com/datasets/senapatirajesh/netflix-tv-shows-and-movies>
-- <https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022>
+- <https://www.imdb.com/search/title/?title_type=tv_series&sort=release_date,desc&start=101&ref_=adv_nxt>
