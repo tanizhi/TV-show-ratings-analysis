@@ -15,7 +15,7 @@ We are conducting a data exploratory analysis on TV show ratings and performance
 
 ## Problem Definition
 
-- Are we able to predict if a TV show is good (rating above 8.0) based on its attributes?
+- Are we able to predict if a TV show is good (7.7 rating and above) based on its attributes?
 - Which model would be the best to predict it?
 
 ## Models Used
