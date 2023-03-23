@@ -1,4 +1,4 @@
-# TV-show-ratings-analysis
+# World Happiness Report
 
 ## About
 
